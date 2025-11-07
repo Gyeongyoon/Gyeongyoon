@@ -8,22 +8,7 @@
 
 - 💻 **Languages**: Java, Python, C  
 - 🛢️ **Databases**: MySQL, ORACLE  
-- ⚙️ **Tools & Platforms**: Git, GitHub 
-
----
-
-## 🛠️ Projects
-
-
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)  
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=transparent)
+- ⚙️ **Tools & Platforms**: Git, GitHub
 
 ---
 
