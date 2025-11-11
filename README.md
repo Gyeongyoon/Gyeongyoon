@@ -15,8 +15,6 @@
 ## 📞 Contact Me
 
 - 📧 **Email**: gracekim6531@naver.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
-- 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
