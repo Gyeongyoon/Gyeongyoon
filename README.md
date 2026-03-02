@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Gyeongyoon!
 
-🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
+🎓 ITM Student at SeoulTech |
 
 ---
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: Java, Python, C  
-- 🛢️ **Databases**: MySQL, ORACLE  
+- 💻 **Languages**: Java, Python
 - ⚙️ **Tools & Platforms**: Git, GitHub
 
 ---
