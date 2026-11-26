@@ -1,15 +1,15 @@
 
 
-## 🎓 Education
+## Education
 
 | 학교 | 전공 | 기간 |
 |---|---|---|
-| 🇰🇷 서울과학기술대학교 | 산업공학과 IT Management 전공 | 2024.03 ~ 2028.02 (예정) |
-| 🇬🇧 Northumbria University | B.A. (Hons) in IT Management (복수학위) | 2024.03 ~ 2028.02 (예정) |
+|  서울과학기술대학교 | 산업공학과 IT Management 전공 | 2024.03 ~ 2028.02 (예정) |
+|  Northumbria University | B.A. (Hons) in IT Management (복수학위) | 2024.03 ~ 2028.02 (예정) |
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -58,7 +58,7 @@
 
 🔗 [웹 바로 가기](https://typoem-app.onrender.com) · [Android 앱](https://github.com/typoem-team/typoem-app)
 
-### 📱 [FocusTrace](https://github.com/kimm00/2026_Mobile-Programming) · Android 앱
+### 📱 [FocusTrace] · Android 앱
 > 공부하는 동안 집중이 언제 깨지는지 기록하고 분석하는 앱
 
 - 집중 세션 중 휴대폰 사용을 기록하고, 사용 패턴 분석과 AI 기반 추천 제공
@@ -106,7 +106,7 @@
 
 ---
 
-## 🎬 Experience
+## Experience
 
 **STBS 서울과학기술대학교 방송국 · 제작부 부장** (2024.03 ~ 2025.12)
 - 라디오, 뉴스, 릴스, 예능 등 교내 방송 콘텐츠 기획 및 제작 총괄
@@ -124,7 +124,7 @@
 
 ---
 
-## 📚 Certificates
+## Certificates
 
 - 데이터분석준전문가 (ADsP)
 - IELTS 6.5
